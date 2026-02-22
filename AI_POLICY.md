@@ -31,6 +31,7 @@ Studenții trebuie să respecte următoarele proceduri în funcție de mediul de
 
   * **Mediu Local (IDE-uri, Terminal):**
     * Este permisă utilizarea agenților AI în IDE-uri, cum ar fi VSCode cu extensia GitHub Copilot sau Cursor, sau a agenților AI în terminal precum claude-cli, gemini-cli, sau opencode.
+    * În fiecare sesiune de lucru cu agentul AI, studenții trebuie să se asigure că agentul folosește promptul propus de noi (Anexa A).
     * Este recomandată utilizarea fișierelor de configurare a agenților (ex. `AGENTS.md`, `CLAUDE.md`) care încarcă automat instrucțiunile.
     * Consultați documentația specifică a uneltei folosite pentru detalii despre configurarea acestor fișiere.
   * **Aplicații bazate pe Chat (ChatGPT, Gemini, Google Colab AI):**
